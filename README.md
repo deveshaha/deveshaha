@@ -1,7 +1,7 @@
 Hi 👋 My name is Devesh Hanumante
 =================================
 
-Software Developer Student
+Software Developer Student / CAD-CAM Designer / CNC Programmer
 --------------------------
 
 * 🌍  I'm based in Madrid
