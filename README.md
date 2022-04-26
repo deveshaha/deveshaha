@@ -25,9 +25,9 @@ Software Developer Student
 
 ### Other Skills
 <a href="https://en.wikipedia.org/wiki/G-code" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_gcode_icon_130582.png" width="36" height="36" alt="G Code" /></a>
-<!-- <a href="https://www.heidenhain.com/products/cnc-controls/tnc-320"> -->
 <a href="https://www.mastercam.com/" target = "_blank" rel="noreferrer"><img src="https://www.solidworks.com/sites/default/files/files.solidworks.com/partners/company-logos/micon-and-mastercam2121.png" width="36" height="36" alt="Mastercam"></a>
 <a href="https://www.plm.automation.siemens.com/global/es/products/nx/" target = "_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/5/51/Siemens_NX_Logo.png" width="36" height="36" alt="Siemens NX"></a>
+<!-- <a href="https://www.heidenhain.com/products/cnc-controls/tnc-320"> -->
 
 ### Socials
 
