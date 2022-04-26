@@ -24,7 +24,8 @@ Software Developer Student
 </p>
 
 ### Other Skills
-
+<a href="https://en.wikipedia.org/wiki/G-code" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_gcode_icon_130582.png" width="36" height="36" alt="G Code" /></a>
+<!-- <a href="https://www.heidenhain.com/products/cnc-controls/tnc-320"> -->
 
 ### Socials
 
