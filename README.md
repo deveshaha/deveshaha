@@ -5,7 +5,6 @@ Software Developer Student
 --------------------------
 
 * 🌍  I'm based in Madrid
-* ✉️  You can contact me at [devesh\_hanumante@outlook.com](mailto:devesh_hanumante@outlook.com)
 * 🧠  I'm learning "Desarrollo de Aplicaciones Multiplataforma + IoT" at Universidad Europea Madrid
 
 ### Skills
