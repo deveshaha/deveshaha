@@ -2,6 +2,7 @@ Hi 👋 My name is Devesh Hanumante
 =================================
 
 Software Developer Student
+42 Madrid Student
 --------------------------
 
 * 🌍  I'm based in Madrid
