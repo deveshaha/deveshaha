@@ -6,7 +6,7 @@ Software Developer Student
 
 * 🌍  I'm based in Madrid
 * 🧠  I'm learning "Desarrollo de Aplicaciones Multiplataforma + IoT" at Universidad Europea Madrid
-* 42 Madrid Student
+* 🎓  42 Madrid Student
 ### Skills
 
 <p align="left">
